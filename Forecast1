@@ -1,0 +1,139 @@
+<File>
+  <Cust_details>
+    <Details>
+      <Company>HA</Company>
+      <ProductID>EP</ProductID>
+      <TypeCode>Customization</TypeCode>
+      <Key1>Forecast1</Key1>
+      <Key2>App.ForecastEntry.ForecastForm</Key2>
+      <Key3></Key3>
+      <Description>Forecast1</Description>
+      <LastUpdated>12/31/2021 6:06:31 PM</LastUpdated>
+      <LastUpdatedBy>domurto</LastUpdatedBy>
+      <Version>12/31/2021 1:06:31 P</Version>
+      <Content>&lt;CustomizationDS xmlns="http://tempuri.org/XMLSchema.xsd"&gt;
+  &lt;xs:schema id="CustomizationDS" targetNamespace="http://tempuri.org/XMLSchema.xsd" xmlns:mstns="http://tempuri.org/XMLSchema.xsd" xmlns="http://tempuri.org/XMLSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified"&gt;
+    &lt;xs:element name="CustomizationDS" msdata:IsDataSet="true" msdata:Locale="" msprop:BuildVersion="3.2.500.0"&gt;
+      &lt;xs:complexType&gt;
+        &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+          &lt;xs:element name="Controls"&gt;
+            &lt;xs:complexType&gt;
+              &lt;xs:sequence&gt;
+                &lt;xs:element name="FormsID" type="xs:string" /&gt;
+                &lt;xs:element name="ControlName" type="xs:string" /&gt;
+                &lt;xs:element name="Key" type="xs:string" /&gt;
+                &lt;xs:element name="ParentControlKey" type="xs:string" /&gt;
+                &lt;xs:element name="ControlType" type="xs:string" /&gt;
+                &lt;xs:element name="Company" type="xs:string" /&gt;
+                &lt;xs:element name="Plant" type="xs:string" /&gt;
+                &lt;xs:element name="DcdUserId" type="xs:string" /&gt;
+                &lt;xs:element name="GroupID" type="xs:string" /&gt;
+                &lt;xs:element name="ControlsID" type="xs:string" /&gt;
+              &lt;/xs:sequence&gt;
+            &lt;/xs:complexType&gt;
+          &lt;/xs:element&gt;
+          &lt;xs:element name="Properties"&gt;
+            &lt;xs:complexType&gt;
+              &lt;xs:sequence&gt;
+                &lt;xs:element name="FormsID" type="xs:string" /&gt;
+                &lt;xs:element name="ControlName" type="xs:string" /&gt;
+                &lt;xs:element name="Key" type="xs:string" /&gt;
+                &lt;xs:element name="PropertyName" type="xs:string" /&gt;
+                &lt;xs:element name="PropertyValue" type="xs:string" /&gt;
+                &lt;xs:element name="Company" type="xs:string" /&gt;
+                &lt;xs:element name="Plant" type="xs:string" /&gt;
+                &lt;xs:element name="DcdUserID" type="xs:string" /&gt;
+                &lt;xs:element name="GroupID" type="xs:string" /&gt;
+                &lt;xs:element name="PropertiesID" type="xs:string" /&gt;
+              &lt;/xs:sequence&gt;
+            &lt;/xs:complexType&gt;
+          &lt;/xs:element&gt;
+        &lt;/xs:choice&gt;
+      &lt;/xs:complexType&gt;
+    &lt;/xs:element&gt;
+  &lt;/xs:schema&gt;
+  &lt;Properties&gt;
+    &lt;FormsID&gt;ForecastForm&lt;/FormsID&gt;
+    &lt;ControlName&gt;Customization&lt;/ControlName&gt;
+    &lt;Key&gt;2dcd1674-5e34-4d98-b493-c75747027376&lt;/Key&gt;
+    &lt;PropertyName&gt;Script&lt;/PropertyName&gt;
+    &lt;PropertyValue&gt;// **************************************************
+// Custom code for ForecastForm
+// Created: 12/31/2021 1:05:53 PM
+// **************************************************
+using System;
+using System.ComponentModel;
+using System.Data;
+using System.Diagnostics;
+using System.Windows.Forms;
+using Erp.Adapters;
+using Erp.UI;
+using Ice.Lib;
+using Ice.Adapters;
+using Ice.Lib.Customization;
+using Ice.Lib.ExtendedProps;
+using Ice.Lib.Framework;
+using Ice.Lib.Searches;
+using Ice.UI.FormFunctions;
+
+public class Script
+{
+	// ** Wizard Insert Location - Do Not Remove 'Begin/End Wizard Added Module Level Variables' Comments! **
+	// Begin Wizard Added Module Level Variables **
+
+	// End Wizard Added Module Level Variables **
+
+	// Add Custom Module Level Variables Here **
+
+	public void InitializeCustomCode()
+	{
+		// ** Wizard Insert Location - Do not delete 'Begin/End Wizard Added Variable Initialization' lines **
+		// Begin Wizard Added Variable Initialization
+
+		// End Wizard Added Variable Initialization
+
+		// Begin Wizard Added Custom Method Calls
+
+		// End Wizard Added Custom Method Calls
+	}
+
+	public void DestroyCustomCode()
+	{
+		// ** Wizard Insert Location - Do not delete 'Begin/End Wizard Added Object Disposal' lines **
+		// Begin Wizard Added Object Disposal
+
+		// End Wizard Added Object Disposal
+
+		// Begin Custom Code Disposal
+
+		// End Custom Code Disposal
+	}
+}
+
+&lt;/PropertyValue&gt;
+    &lt;Company /&gt;
+    &lt;Plant /&gt;
+    &lt;DcdUserID /&gt;
+    &lt;GroupID /&gt;
+    &lt;PropertiesID /&gt;
+  &lt;/Properties&gt;
+  &lt;Properties&gt;
+    &lt;FormsID&gt;ForecastForm&lt;/FormsID&gt;
+    &lt;ControlName&gt;Customization&lt;/ControlName&gt;
+    &lt;Key&gt;2dcd1674-5e34-4d98-b493-c75747027376&lt;/Key&gt;
+    &lt;PropertyName&gt;Language&lt;/PropertyName&gt;
+    &lt;PropertyValue&gt;CSharp&lt;/PropertyValue&gt;
+    &lt;Company /&gt;
+    &lt;Plant /&gt;
+    &lt;DcdUserID /&gt;
+    &lt;GroupID /&gt;
+    &lt;PropertiesID /&gt;
+  &lt;/Properties&gt;
+&lt;/CustomizationDS&gt;</Content>
+      <CommentText></CommentText>
+      <EntityKey />
+      <SysRevID>System.Byte[]</SysRevID>
+      <SysRowID>60bb07e8-4742-491e-9fc8-2a6caeb6bd1f</SysRowID>
+    </Details>
+  </Cust_details>
+</File>
