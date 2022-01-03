@@ -1,22 +1,39 @@
 <File>
   <Cust_details>
     <Details>
-      <Company>EPIC03</Company>
+      <Company></Company>
       <ProductID>EP</ProductID>
-      <TypeCode>GlobalOptions</TypeCode>
+      <TypeCode>MainMenuHistory</TypeCode>
       <Key1>epicor</Key1>
       <Key2></Key2>
       <Key3></Key3>
-      <Description>Global Options forepicor</Description>
-      <LastUpdated>31-12-2021 14:46:28</LastUpdated>
+      <Description></Description>
+      <LastUpdated>03-01-2022 07:08:06</LastUpdated>
       <LastUpdatedBy>epicor</LastUpdatedBy>
-      <Version>31-12-2021 20:16:28</Version>
-      <Content>&lt;AllForms version="31-12-2021 20:16:28"&gt;&lt;StatusBarProperties&gt;&lt;BorderPanelStyle&gt;Default&lt;/BorderPanelStyle&gt;&lt;BorderStyle&gt;Default&lt;/BorderStyle&gt;&lt;DateFormat&gt;d&lt;/DateFormat&gt;&lt;TimeFormat&gt;t&lt;/TimeFormat&gt;&lt;/StatusBarProperties&gt;&lt;HotKeysProperties&gt;&lt;DeleteToolPosition&gt;Default&lt;/DeleteToolPosition&gt;&lt;EnterpriseSearchHotKey&gt;CtrlShiftS&lt;/EnterpriseSearchHotKey&gt;&lt;ZoneHotKey&gt;CtrlShiftI&lt;/ZoneHotKey&gt;&lt;SearchHotKey&gt;CtrlS&lt;/SearchHotKey&gt;&lt;MaintHotKey&gt;CtrlM&lt;/MaintHotKey&gt;&lt;CarriageReturnAsTab&gt;False&lt;/CarriageReturnAsTab&gt;&lt;ClearHotKey&gt;None&lt;/ClearHotKey&gt;&lt;DeleteHotKey&gt;None&lt;/DeleteHotKey&gt;&lt;ExitHotKey&gt;None&lt;/ExitHotKey&gt;&lt;NewHotKey&gt;None&lt;/NewHotKey&gt;&lt;RefreshHotKey&gt;None&lt;/RefreshHotKey&gt;&lt;SaveHotKey&gt;None&lt;/SaveHotKey&gt;&lt;UndoHotKey&gt;None&lt;/UndoHotKey&gt;&lt;SearchIndicator&gt;True&lt;/SearchIndicator&gt;&lt;MaintIndicator&gt;True&lt;/MaintIndicator&gt;&lt;SearchColor&gt;LightSteelBlue&lt;/SearchColor&gt;&lt;MaintColor&gt;DarkKhaki&lt;/MaintColor&gt;&lt;ZoneIndicatorSuppressed&gt;False&lt;/ZoneIndicatorSuppressed&gt;&lt;ZoneIndicatorColor&gt;LightSteelBlue&lt;/ZoneIndicatorColor&gt;&lt;RequiredIndicator&gt;False&lt;/RequiredIndicator&gt;&lt;RequiredIndicatorColor&gt;Salmon&lt;/RequiredIndicatorColor&gt;&lt;/HotKeysProperties&gt;&lt;DesignerGridProperties&gt;&lt;SnapToGrid&gt;False&lt;/SnapToGrid&gt;&lt;GridWidth&gt;8&lt;/GridWidth&gt;&lt;GridHeight&gt;8&lt;/GridHeight&gt;&lt;/DesignerGridProperties&gt;&lt;CustomizationProperties&gt;&lt;TopMost&gt;True&lt;/TopMost&gt;&lt;DefaultCustomizationLanguage&gt;None&lt;/DefaultCustomizationLanguage&gt;&lt;SuppressSaveCommentDialog&gt;False&lt;/SuppressSaveCommentDialog&gt;&lt;/CustomizationProperties&gt;&lt;CustomCodeEditorProperties&gt;&lt;UseTabs&gt;True&lt;/UseTabs&gt;&lt;UseTabStops&gt;False&lt;/UseTabStops&gt;&lt;TabSize&gt;4&lt;/TabSize&gt;&lt;AutoIndentMode&gt;None&lt;/AutoIndentMode&gt;&lt;/CustomCodeEditorProperties&gt;&lt;/AllForms&gt;</Content>
-      <CommentText>[epicor 7/12/2018 12:09 PM]
-Moved data from XXXChunk to XXXDef.Content</CommentText>
+      <Version></Version>
+      <Content>TSUMT2115
+BPGO1200
+SUMN2275
+OMMT1255
+BPMN1300
+BPMN1200
+BPGO1100
+BPGO1300
+XABA3040
+SUMT2000
+SUMN1182
+SUUT7000
+MMMT9101
+MMGO9600
+MMGO9050
+MMGO9530
+MMGO9520
+MMGO9510
+MMMT9100</Content>
+      <CommentText></CommentText>
       <EntityKey />
       <SysRevID>System.Byte[]</SysRevID>
-      <SysRowID>d92922d8-c048-4768-8888-2142c67efd06</SysRowID>
+      <SysRowID>bd780834-153d-49f1-b99d-abd1fc175855</SysRowID>
     </Details>
   </Cust_details>
 </File>
