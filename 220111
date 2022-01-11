@@ -3,12 +3,12 @@
     <Details>
       <Company></Company>
       <ProductID>EP</ProductID>
-      <TypeCode>Customization</TypeCode>
+      <TypeCode>CustomizationBack</TypeCode>
       <Key1>220111</Key1>
       <Key2>App.UD14Entry.UD14Form</Key2>
       <Key3></Key3>
       <Description>Used 210325 - added QS data</Description>
-      <LastUpdated>1/11/2022 1:29:44 PM</LastUpdated>
+      <LastUpdated>1/11/2022 1:30:04 PM</LastUpdated>
       <LastUpdatedBy>domurto</LastUpdatedBy>
       <Version>1/11/2022 8:29:43 AM</Version>
       <Content>&lt;CustomizationDS xmlns="http://tempuri.org/XMLSchema.xsd"&gt;
@@ -14631,7 +14631,7 @@ Test
 [epicor: 09-01-2022 20:18:52]</CommentText>
       <EntityKey />
       <SysRevID>System.Byte[]</SysRevID>
-      <SysRowID>acfeb31a-dff3-42b2-b887-32b97b63e461</SysRowID>
+      <SysRowID>06826a57-faed-4177-b4d1-3feffcc6dc84</SysRowID>
     </Details>
   </Cust_details>
 </File>
