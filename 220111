@@ -8,12 +8,12 @@
       <Key2>App.UD14Entry.UD14Form</Key2>
       <Key3></Key3>
       <Description>Used 210325 - added QS data</Description>
-      <LastUpdated>1/11/2022 12:00:00 AM</LastUpdated>
+      <LastUpdated>1/11/2022 2:06:32 PM</LastUpdated>
       <LastUpdatedBy>domurto</LastUpdatedBy>
-      <Version>1/11/2022 8:30:07 AM</Version>
+      <Version>1/11/2022 9:06:32 AM</Version>
       <Content>&lt;CustomizationDS xmlns="http://tempuri.org/XMLSchema.xsd"&gt;
   &lt;xs:schema id="CustomizationDS" targetNamespace="http://tempuri.org/XMLSchema.xsd" xmlns:mstns="http://tempuri.org/XMLSchema.xsd" xmlns="http://tempuri.org/XMLSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified"&gt;
-    &lt;xs:element name="CustomizationDS" msdata:IsDataSet="true" msdata:Locale="" msprop:Key3="" msprop:CGCCode="" msprop:ProductID="EP" msprop:TypeCode="Customization" msprop:Key2="App.UD14Entry.UD14Form" msprop:BuildVersion="w3.2.500.0" msprop:Company="HA" msprop:Description="190306_TFO" msprop:CommentText="Resolved issues related to the E10 conversion and .P programs we moved into the customization&amp;#xA;[beasleyb: 12/15/2015 3:01:15 PM]&amp;#xA;&amp;#xA;160216_E10 - copy of 20160215_AWB (which derived from 151104_E10).  As noted above, while working through issues in E10, various versions were created.  This copy is just to get the naming convention back to Habasit standards.&amp;#xA;[knightl: 2/16/2016 10:00:16 AM]&amp;#xA;&amp;#xA;160509_E10 - copy of 160216_E10.  Changes made by Brad.&amp;#xA;[knightl: 5/12/2016 10:17:11 AM]&amp;#xA;&amp;#xA;changed BAW OrderAlloc to OrderAllocTest&amp;#xA;[beasleyb: 10/11/2016 3:14:36 PM]&amp;#xA;&amp;#xA;updated ShipOrderComplete logic to return true.&amp;#xA;[beasleyb: 4/4/2017 3:28:05 PM]&amp;#xA;&amp;#xA;- Brad Updated the ShipTo_Name&amp;#xA;[beasleyb: 2/15/2018 3:40:40 PM]" msprop:Key1="190306"&gt;
+    &lt;xs:element name="CustomizationDS" msdata:IsDataSet="true" msdata:Locale="" msprop:Key3="" msprop:CGCCode="" msprop:ProductID="EP" msprop:TypeCode="Customization" msprop:CommentText="Resolved issues related to the E10 conversion and .P programs we moved into the customization&amp;#xA;[beasleyb: 12/15/2015 3:01:15 PM]&amp;#xA;&amp;#xA;160216_E10 - copy of 20160215_AWB (which derived from 151104_E10).  As noted above, while working through issues in E10, various versions were created.  This copy is just to get the naming convention back to Habasit standards.&amp;#xA;[knightl: 2/16/2016 10:00:16 AM]&amp;#xA;&amp;#xA;160509_E10 - copy of 160216_E10.  Changes made by Brad.&amp;#xA;[knightl: 5/12/2016 10:17:11 AM]&amp;#xA;&amp;#xA;changed BAW OrderAlloc to OrderAllocTest&amp;#xA;[beasleyb: 10/11/2016 3:14:36 PM]&amp;#xA;&amp;#xA;updated ShipOrderComplete logic to return true.&amp;#xA;[beasleyb: 4/4/2017 3:28:05 PM]&amp;#xA;&amp;#xA;- Brad Updated the ShipTo_Name&amp;#xA;[beasleyb: 2/15/2018 3:40:40 PM]" msprop:BuildVersion="3.2.500.0" msprop:Company="HA" msprop:Description="190306_TFO" msprop:Key2="App.UD14Entry.UD14Form" msprop:Key1="190306"&gt;
       &lt;xs:complexType&gt;
         &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
           &lt;xs:element name="Controls"&gt;
@@ -1413,7 +1413,7 @@
     &lt;ControlName&gt;epiGroupBox1&lt;/ControlName&gt;
     &lt;Key&gt;583f5451-9245-4761-bde8-e14eecf76fd0&lt;/Key&gt;
     &lt;PropertyName&gt;ChildIndex&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;2&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;0&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
@@ -1473,7 +1473,7 @@
     &lt;ControlName&gt;epiGroupBox1&lt;/ControlName&gt;
     &lt;Key&gt;583f5451-9245-4761-bde8-e14eecf76fd0&lt;/Key&gt;
     &lt;PropertyName&gt;Top&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;286&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;465&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
@@ -6556,6 +6556,7 @@ public static class Script
 
 
 
+
 &lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
@@ -7192,7 +7193,7 @@ public static class Script
     &lt;ControlName&gt;epiButton2&lt;/ControlName&gt;
     &lt;Key&gt;3223ff9d-da95-4c3c-b57e-6eac30f5903d&lt;/Key&gt;
     &lt;PropertyName&gt;ChildIndex&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;0&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;2&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
@@ -7552,7 +7553,7 @@ public static class Script
     &lt;ControlName&gt;epiGroupBox3&lt;/ControlName&gt;
     &lt;Key&gt;dda05ddc-55db-4269-bf2d-b82dd1b51f54&lt;/Key&gt;
     &lt;PropertyName&gt;Top&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;525&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;285&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
@@ -13528,7 +13529,7 @@ public static class Script
     &lt;ControlName&gt;epiGroupBox3&lt;/ControlName&gt;
     &lt;Key&gt;dda05ddc-55db-4269-bf2d-b82dd1b51f54&lt;/Key&gt;
     &lt;PropertyName&gt;AnchorTop&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;525&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;285&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
@@ -13660,7 +13661,7 @@ public static class Script
     &lt;ControlName&gt;epiGroupBox1&lt;/ControlName&gt;
     &lt;Key&gt;583f5451-9245-4761-bde8-e14eecf76fd0&lt;/Key&gt;
     &lt;PropertyName&gt;AnchorTop&lt;/PropertyName&gt;
-    &lt;PropertyValue&gt;286&lt;/PropertyValue&gt;
+    &lt;PropertyValue&gt;465&lt;/PropertyValue&gt;
     &lt;Company /&gt;
     &lt;Plant /&gt;
     &lt;DcdUserID /&gt;
